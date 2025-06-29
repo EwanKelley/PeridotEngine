@@ -1,0 +1,1 @@
+g++ main.cpp -L. -lengine -lglfw3 -o exec
